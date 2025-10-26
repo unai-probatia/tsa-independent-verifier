@@ -233,7 +233,7 @@ A: No! All verification is done locally using cryptography.
 
 ## Support
 
-- 📖 Documentation: [https://docs.pribatia.com](https://docs.yourcompany.com)
+- 📖 Documentation: [https://docs.probatia.com](https://docs.yourcompany.com)
 - 🐛 Report Issues: [GitHub Issues](https://github.com/unai-probatia/tsa-independent-verifier/issues)
 
 ## License
